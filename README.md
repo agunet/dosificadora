@@ -1,2 +1,11 @@
-----Proyecto dosificadora de dulce de lecha para alfajores Open Hardware.----
+# Proyecto dosificadora de dulce de lecha para alfajores
+
+* Estado en Proceso de Creación
+
+![Logo de mi proyecto](https://github.com/agunet/dosificadora/blob/main/dosificadora.png)
+
+
+
 ****Este proyecto es una creación de Agustín Damián Gallo, bajo la licencia GPLv3.****
+
+
