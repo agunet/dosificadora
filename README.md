@@ -1,4 +1,4 @@
-# Proyecto dosificadora de dulce de lecha para alfajores
+# Proyecto dosificadora de dulce de leche para alfajores
 
 * Estado: En Proceso de Creación
 
