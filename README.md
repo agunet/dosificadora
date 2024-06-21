@@ -1,6 +1,6 @@
 # Proyecto dosificadora de dulce de lecha para alfajores
 
-* Estado en Proceso de Creación
+* Estado: En Proceso de Creación
 
 ![Logo de mi proyecto](https://github.com/agunet/dosificadora/blob/main/dosificadora.png)
 
